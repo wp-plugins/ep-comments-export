@@ -1,0 +1,18 @@
+#epce_active {
+	background-image: url('export_active.png');
+	background-position: center center;
+	background-repeat: no-repeat;
+	display: block;
+	height: 16px;
+	width: 16px;
+}
+
+#epce_active:hover {
+	box-shadow: 0 0 3px rgba(0,0,0,0.3);
+}
+
+#epce_active.loading,
+#epce_active.loading:hover {
+	background-image: url('loading_small.gif');
+	box-shadow: none;
+}
