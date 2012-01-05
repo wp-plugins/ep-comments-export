@@ -3,7 +3,7 @@ Contributors: Earth People
 Tags: comments, commentmeta, export, migrate, csv, csv export
 Requires at least: 3.3.1
 Tested up to: 3.3.1
-Stable tag: 0.1
+Stable tag: 0.1.0
 
 Simple plugin to export comments and the comment meta data from your blog to a csv file that can be save on your local computer.
 
