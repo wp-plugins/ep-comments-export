@@ -1,5 +1,5 @@
 === EP Comments Export ===
-Contributors: Earth People
+Contributors: Earth People, darkwhispering, wineblade
 Tags: comments, commentmeta, export, migrate, csv, csv export
 Requires at least: 3.3.1
 Tested up to: 3.3.1
